@@ -9,7 +9,7 @@ This repository explores this question in hierarchical Bayesian inference. We sh
 This naturally leads to another question: why do some population trends reported in successive gravitational-wave transient catalogs sometimes change or weaken? For example:
 
 - unequal-mass binaries favor higher effective spin, or  
-- the merger rate drops on the left side of the ~35 Msun  
+- the merger rate drops on the left side of the 35 Msun  
 
 appears less significant in later catalogs.
 
