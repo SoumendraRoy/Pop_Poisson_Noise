@@ -1,0 +1,10 @@
+*.h5
+*.nc
+*.csv
+*.out
+*.err
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.png
+*.pdf
